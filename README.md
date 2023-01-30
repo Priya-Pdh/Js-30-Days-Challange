@@ -1,2 +1,2 @@
-# Js-30-Days-Challange
-30 vanilla Js projects
+# Js-7-Days-Challange
+7 vanilla Js projects
